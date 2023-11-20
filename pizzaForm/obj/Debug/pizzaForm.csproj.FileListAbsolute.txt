@@ -1,0 +1,11 @@
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\bin\Debug\pizzaForm.exe.config
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\bin\Debug\pizzaForm.exe
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\bin\Debug\pizzaForm.pdb
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\obj\Debug\pizzaForm.csproj.AssemblyReference.cache
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\obj\Debug\pizzaForm.Form1.resources
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\obj\Debug\pizzaForm.Properties.Resources.resources
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\obj\Debug\pizzaForm.csproj.GenerateResource.cache
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\obj\Debug\pizzaForm.csproj.CoreCompileInputs.cache
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\obj\Debug\pizzaForm.exe
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\obj\Debug\pizzaForm.pdb
+C:\Users\sandor.norbert\Desktop\pizzaForm\pizzaForm\bin\Debug\pizza.csv

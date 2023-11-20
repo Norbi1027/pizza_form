@@ -1,0 +1,7 @@
+Hawaii | 43 | Kézpénzes | Számlát nem kér!
+Capricciosa | 2 | Kártyás | Számlát kér!
+Capricciosa | 2 | Kártyás | Számlát kér!
+Capricciosa | 2 | Kártyás | Számlát kér!
+Capricciosa | 2 | Kártyás | Számlát kér!
+Capricciosa | 8 | Kártyás | Számlát kér!
+Capricciosa |  | Kártyás | Számlát nem kér!
